@@ -9,7 +9,7 @@
 
 [![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![platform](https://img.shields.io/badge/platform-Android-yellow.svg)](https://www.android.com)
-[![API](https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=plastic)](https://android-arsenal.com/api?level=21)
+[![API](https://img.shields.io/badge/API-23%2B-brightgreen.svg?style=plastic)](https://android-arsenal.com/api?level=23)
 <br>
 <a href="https://www.linkedin.com/in/shashank-singhal-a87729b5/">
     <img src="https://img.shields.io/badge/Support-Recommed%2FEndorse%20me%20on%20Linkedin-yellow?style=for-the-badge&logo=linkedin" alt="Recommend me on LinkedIn" /></a>
@@ -45,7 +45,7 @@ AnywhereGPT is the ultimate mobile app with seamless AI assistance at your finge
 <img src="https://github.com/Shashank02051997/AnywhereGPT-Android/blob/master/Screenshot/Screenshot_20230404-132753.png" height="600" width="300" hspace="40"><img src="https://github.com/Shashank02051997/AnywhereGPT-Android/blob/master/Screenshot/Screenshot_20230404-132938.png" height="600" width="300" hspace="40">
 
 ## Prerequisites 📝
-- Android Studio(IDE) to run this project
+- IntelliJ IDEA (any edition) or Android Studio(IDE) to run this project
 - OpenAI API Key (visit https://platform.openai.com/account/api-keys)
 
 ## Built With 🛠
