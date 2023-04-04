@@ -1,13 +1,44 @@
 # AnywhereGPT
+![Github Followers](https://img.shields.io/github/followers/Shashank02051997?label=Follow&style=social)
+![GitHub stars](https://img.shields.io/github/stars/Shashank02051997/AnywhereGPT-Android?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Shashank02051997/AnywhereGPT-Android?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/Shashank02051997/AnywhereGPT-Android?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/shashank020597?label=Follow&style=social)
+
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Shashank02051997/AnywhereGPT-Android) ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/Shashank02051997/AnywhereGPT-Android) ![GitHub last commit](https://img.shields.io/github/last-commit/Shashank02051997/AnywhereGPT-Android)  ![GitHub issues](https://img.shields.io/github/issues-raw/Shashank02051997/AnywhereGPT-Android) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](Shashank02051997/AnywhereGPT-Android)
+
+[![platform](https://img.shields.io/badge/platform-Android-yellow.svg)](https://www.android.com)
+[![API](https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=plastic)](https://android-arsenal.com/api?level=21)
+<br>
+<a href="https://www.linkedin.com/in/shashank-singhal-a87729b5/">
+    <img src="https://img.shields.io/badge/Support-Recommed%2FEndorse%20me%20on%20Linkedin-yellow?style=for-the-badge&logo=linkedin" alt="Recommend me on LinkedIn" /></a>
+
 AnywhereGPT is the ultimate mobile app with seamless AI assistance at your fingertips! Say goodbye to screen-switching! 📱🤖.
+
+***You can Install and test latest app from below 👇***
+
+[![Anywhere GPT App](https://img.shields.io/badge/AnywhereGPT-APK-red.svg?style=for-the-badge&logo=android)](https://github.com/Shashank02051997/AnywhereGPT-Android/tree/master/apk)
+
+## About
+🚀 Anywhere GPT aims to increase productivity for mobile phone users who rely on their phones for communication. It sounds like a useful tool that could make a real difference for people who are always on the go.
+
+💪🏆 With Anywhere GPT, you can boost your productivity by 10x and focus on what matters most: achieving your goals.
+
+👉📈 With Anywhere GPT, you can get real-time results like Chat GPT
+
+
+## Sailent Features:
+- .
+- .
+- .
 
 ## Screenshots
 
 **Please click the image below to enlarge.**
 
-<img src="" height="600" width="300" hspace="40"><img src="" height="600" width="300" hspace="40">
+<img src="https://github.com/Shashank02051997/AnywhereGPT-Android/blob/master/Screenshot/Screenshot_20230404-132707.png" height="600" width="300" hspace="40"><img src="https://github.com/Shashank02051997/AnywhereGPT-Android/blob/master/Screenshot/Screenshot_20230404-132730.png" height="600" width="300" hspace="40">
 
-<img src="" height="600" width="300" hspace="40"><img src="" height="600" width="300" hspace="40">
+<img src="https://github.com/Shashank02051997/AnywhereGPT-Android/blob/master/Screenshot/Screenshot_20230404-132753.png" height="600" width="300" hspace="40"><img src="https://github.com/Shashank02051997/AnywhereGPT-Android/blob/master/Screenshot/Screenshot_20230404-132938.png" height="600" width="300" hspace="40">
 
 
 ## Built With 🛠
