@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingHorizontal="@dimen/_12sdp"
+        android:paddingVertical="@dimen/_8sdp">
+
+        <TextView
+            android:id="@+id/tv_message_received"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/item_left_side_background"
+            android:paddingHorizontal="@dimen/_12sdp"
+            android:paddingVertical="@dimen/_8sdp"
+            android:textColor="@color/black"
+            android:textSize="@dimen/_14sdp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:text="Hey" />
+
+        <TextView
+            android:id="@+id/tv_copy"
+            style="@style/ClickableBorderlessStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_4sdp"
+            android:background="@drawable/bg_semi_rounded_with_shadow"
+            android:drawablePadding="@dimen/_4sdp"
+            android:paddingHorizontal="@dimen/_8sdp"
+            android:paddingVertical="@dimen/_4sdp"
+            app:drawableTint="@color/midnight_blue"
+            android:text="@string/label_copy"
+            android:textColor="@color/midnight_blue"
+            android:textSize="@dimen/_10sdp"
+            app:drawableStartCompat="@drawable/ic_content_copy"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tv_message_received" />
+
+        <TextView
+            android:id="@+id/tv_share"
+            style="@style/ClickableBorderlessStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/_8sdp"
+            android:background="@drawable/bg_semi_rounded_with_shadow"
+            android:drawablePadding="@dimen/_4sdp"
+            android:paddingHorizontal="@dimen/_8sdp"
+            android:paddingVertical="@dimen/_4sdp"
+            android:text="@string/label_share"
+            app:drawableTint="@color/midnight_blue"
+            android:textColor="@color/midnight_blue"
+            android:textSize="@dimen/_10sdp"
+            app:drawableStartCompat="@drawable/ic_share"
+            app:layout_constraintStart_toEndOf="@+id/tv_copy"
+            app:layout_constraintTop_toTopOf="@+id/tv_copy" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

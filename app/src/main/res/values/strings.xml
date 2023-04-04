@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Anywhere GPT</string>
+
+    <!-- Labels -->
+    <string name="label_app_version">App Version %s</string>
+    <string name="label_copy">Copy</string>
+    <string name="label_share">Share</string>
+    <string name="label_open_ai_key">OpenAI Key</string>
+    <string name="label_key_saved_to_your_device">Save the key on your device for exclusive use to ensure maximum security and confidentiality, and get it for free at https://beta.openai.com/account/api-keys</string>
+    <string name="label_max_length">Maximum length of AI bot response</string>
+    <string name="label_max_number_of_tokens">The GPT models can generate a maximum number of tokens per sequence. Tokens are character sequences in text, and more information about them can be found at https://platform.openai.com/tokenizer</string>
+
+    <!-- Hints -->
+    <string name="hint_like_to_ask">What would you like to ask?</string>
+    <string name="hint_api_key">sk-hS5iDbuzOOtc****</string>
+    <string name="hint_token_length">400</string>
+
+    <!-- Buttons -->
+    <string name="btn_update">Update</string>
+
+    <!-- Edit Text -->
+    <string name="token_length">400</string>
+
+    <!-- Toolbar Titles -->
+    <string name="toolbar_title_anywhere_gpt">Anywhere GPT</string>
+    <string name="toolbar_title_faqs">FAQs</string>
+    <string name="toolbar_title_settings">Settings</string>
+
+
+    <!-- Toast/Snackbar (Success + Error) Messages -->
+    <string name="message_enter_some_text">Kindly enter some text to proceed</string>
+    <string name="message_enter_api_key">Please enter API key</string>
+    <string name="message_enter_token">Please enter max token length</string>
+    <string name="message_add_api_key">Open App Settings -> Add your API Key</string>
+    <string name="message_settings_updated">Settings has been updated</string>
+
+    <string name="first_row">What is the purpose of this app?</string>
+    <string name="second_row">What exactly is OpenAI?</string>
+    <string name="third_row">Why do I require an API key to communicate with Anywhere GPT?</string>
+    <string name="fourth_row">What if I do not add an API key to the app?</string>
+    <string name="fifth_row">Is it necessary to pay for the API key?</string>
+    <string name="sixth_row">Do you gather any information from this app?</string>
+
+    <!-- FAQs -->
+
+    <string-array name="string_array_first_row">
+        <item>This application allows users to chat with an AI named Anywhere GPT, which has been powered by the OpenAI GTP-3 models</item>
+    </string-array>
+    <string-array name="string_array_second_row">
+        <item>OpenAI is a company focused on AI research and deployment. Further information about OpenAI can be found at this link.\n\nhttps://openai.com/about/.</item>
+    </string-array>
+    <string-array name="string_array_third_row">
+        <item>This application serves as a bridge between the user and the OpenAI backend. Whenever a user sends a message to the AI, the message is forwarded to OpenAI to generate a response. However, to enable this functionality, an API key is necessary.</item>
+    </string-array>
+    <string-array name="string_array_fourth_row">
+        <item>You can no longer use this application because an API key is required to connect with the OpenAI. Therefore, it is advisable to utilize your own API key for uninterrupted use of the application.</item>
+    </string-array>
+    <string-array name="string_array_fifth_row">
+        <item>OpenAI provides a free credit worth $18 for a period of three months. Beyond that, users are required to pay for API usage. For more details, please visit\n\nhttps://beta.openai.com/account/api-keys.</item>
+    </string-array>
+    <string-array name="string_array_sixth_row">
+        <item>We do not collect any personal information or data from our users, including conversations with the AI bot. It is important to note that we prioritize user privacy and security and do not gather any sensitive or personal information through our app.</item>
+    </string-array>
+
+</resources>

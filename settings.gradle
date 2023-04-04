@@ -1,0 +1,2 @@
+rootProject.name = "Anywhere GPT"
+include ':app'
