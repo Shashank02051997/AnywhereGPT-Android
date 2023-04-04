@@ -27,7 +27,6 @@ AnywhereGPT is the ultimate mobile app with seamless AI assistance at your finge
 
 👉📈 With Anywhere GPT, you can get real-time results like Chat GPT
 
-
 ## Sailent Features:
 
 - Engage in open-ended conversations with an AI chatbot powered by the GPT-3.5-Turbo model.
@@ -45,6 +44,9 @@ AnywhereGPT is the ultimate mobile app with seamless AI assistance at your finge
 
 <img src="https://github.com/Shashank02051997/AnywhereGPT-Android/blob/master/Screenshot/Screenshot_20230404-132753.png" height="600" width="300" hspace="40"><img src="https://github.com/Shashank02051997/AnywhereGPT-Android/blob/master/Screenshot/Screenshot_20230404-132938.png" height="600" width="300" hspace="40">
 
+## Prerequisites 📝
+- Android Studio(IDE) to run this project
+- OpenAI API Key (visit https://platform.openai.com/account/api-keys)
 
 ## Built With 🛠
 - [Kotlin](https://kotlinlang.org/) - First class and official programming language for Android development.
