@@ -11,9 +11,9 @@
         style="@style/TextViewHeaderStyle"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
+        android:layout_marginEnd="@dimen/_44sdp"
         android:textColor="@color/white"
         android:textSize="@dimen/_14sdp"
-        android:layout_marginEnd="@dimen/_44sdp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toStartOf="@+id/iv_right_arrow"
         app:layout_constraintStart_toStartOf="parent"
@@ -24,8 +24,8 @@
         android:id="@+id/iv_right_arrow"
         android:layout_width="@dimen/_16sdp"
         android:layout_height="@dimen/_16sdp"
-        tools:src="@drawable/ic_arrow_down"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        tools:src="@drawable/ic_arrow_down" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

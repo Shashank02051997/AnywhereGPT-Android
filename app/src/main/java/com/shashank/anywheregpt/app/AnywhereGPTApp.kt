@@ -25,6 +25,10 @@ class AnywhereGPTApp : Application() {
         }
         instance = this
         appContext = applicationContext
-        SharedPref.setStringPref(this, SharedPref.KEY_TOKEN_LENGTH, getString(R.string.token_length))
+        SharedPref.setStringPref(
+            this,
+            SharedPref.KEY_TOKEN_LENGTH,
+            getString(R.string.token_length)
+        )
     }
 }

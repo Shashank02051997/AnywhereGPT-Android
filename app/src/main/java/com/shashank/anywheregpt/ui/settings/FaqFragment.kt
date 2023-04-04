@@ -11,8 +11,6 @@ import com.shashank.anywheregpt.databinding.FragmentFaqBinding
 import com.shashank.anywheregpt.ui.base.BaseFragment
 import com.shashank.anywheregpt.ui.viewmodels.EmptyViewModel
 import dagger.hilt.android.AndroidEntryPoint
-import java.util.ArrayList
-import java.util.HashMap
 
 @AndroidEntryPoint
 class FaqFragment : BaseFragment<EmptyViewModel, FragmentFaqBinding>() {
@@ -73,7 +71,8 @@ class FaqFragment : BaseFragment<EmptyViewModel, FragmentFaqBinding>() {
         // initializing the list of child
         listDataChild = HashMap()
         // initializing the adapter object
-        expandableListViewAdapter = ExpandableListViewAdapter(requireContext(), listDataGroup, listDataChild)
+        expandableListViewAdapter =
+            ExpandableListViewAdapter(requireContext(), listDataGroup, listDataChild)
         // setting list adapter
         mViewBinding.elvFaq.setAdapter(expandableListViewAdapter)
     }

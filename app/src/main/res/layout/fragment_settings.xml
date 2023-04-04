@@ -106,12 +106,12 @@
                 android:inputType="number"
                 android:maxLines="1"
                 android:padding="@dimen/_12sdp"
-                tools:text="@string/token_length"
                 android:textColor="@color/white"
                 android:textColorHint="@color/light_midnight_blue"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/tv_label_max_number_of_tokens" />
+                app:layout_constraintTop_toBottomOf="@+id/tv_label_max_number_of_tokens"
+                tools:text="@string/token_length" />
 
             <com.google.android.material.button.MaterialButton
                 android:id="@+id/btn_update_settings"

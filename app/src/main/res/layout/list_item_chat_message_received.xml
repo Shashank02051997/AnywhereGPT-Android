@@ -32,11 +32,11 @@
             android:drawablePadding="@dimen/_4sdp"
             android:paddingHorizontal="@dimen/_8sdp"
             android:paddingVertical="@dimen/_4sdp"
-            app:drawableTint="@color/midnight_blue"
             android:text="@string/label_copy"
             android:textColor="@color/midnight_blue"
             android:textSize="@dimen/_10sdp"
             app:drawableStartCompat="@drawable/ic_content_copy"
+            app:drawableTint="@color/midnight_blue"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/tv_message_received" />
 
@@ -51,10 +51,10 @@
             android:paddingHorizontal="@dimen/_8sdp"
             android:paddingVertical="@dimen/_4sdp"
             android:text="@string/label_share"
-            app:drawableTint="@color/midnight_blue"
             android:textColor="@color/midnight_blue"
             android:textSize="@dimen/_10sdp"
             app:drawableStartCompat="@drawable/ic_share"
+            app:drawableTint="@color/midnight_blue"
             app:layout_constraintStart_toEndOf="@+id/tv_copy"
             app:layout_constraintTop_toTopOf="@+id/tv_copy" />
 

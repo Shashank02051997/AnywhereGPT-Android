@@ -10,6 +10,7 @@ import com.shashank.anywheregpt.data.models.ChatPostBody
 import com.shashank.anywheregpt.databinding.ListItemChatMessageReceivedBinding
 import com.shashank.anywheregpt.databinding.ListItemChatMessageSentBinding
 import com.shashank.anywheregpt.ui.viewmodels.ChatViewModel
+import com.shashank.anywheregpt.utils.AppUtils
 import com.shashank.anywheregpt.utils.ChatRole
 import com.shashank.anywheregpt.utils.copyTextToClipboard
 
@@ -102,7 +103,7 @@ class ChatListAdapter(private val mViewModel: ChatViewModel) :
                     it.context.copyTextToClipboard(tvMessageReceived.text.toString())
                 }
                 tvShare.setOnClickListener {
-
+                    AppUtils.shareContent(it.context, tvMessageReceived.text.toString())
                 }
             }
         }

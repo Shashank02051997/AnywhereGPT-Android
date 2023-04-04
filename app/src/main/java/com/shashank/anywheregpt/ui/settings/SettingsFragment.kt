@@ -61,8 +61,16 @@ class SettingsFragment : BaseFragment<EmptyViewModel, FragmentSettingsBinding>()
                     requireContext().showToast(getString(R.string.message_enter_token))
                     return@setOnClickListener
                 }
-                SharedPref.setStringPref(requireContext(),SharedPref.KEY_API_KEY, etApiKey.text.toString())
-                SharedPref.setStringPref(requireContext(),SharedPref.KEY_TOKEN_LENGTH, etTokenLength.text.toString())
+                SharedPref.setStringPref(
+                    requireContext(),
+                    SharedPref.KEY_API_KEY,
+                    etApiKey.text.toString()
+                )
+                SharedPref.setStringPref(
+                    requireContext(),
+                    SharedPref.KEY_TOKEN_LENGTH,
+                    etTokenLength.text.toString()
+                )
                 requireContext().showToast(getString(R.string.message_settings_updated))
             }
         }
