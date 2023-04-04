@@ -90,6 +90,10 @@ If this project help you reduce time to develop, you can give me a cup of coffee
 
 <a href="https://www.buymeacoffee.com/mXUuDW7" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
+## 💬 Discuss
+
+Have any questions, doubts or want to present your opinions, views? You're always welcome. You can [start discussions](https://github.com/Shashank02051997/AnywhereGPT-Android/discussions).
+
 ## License
 
 ```
