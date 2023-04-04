@@ -7,6 +7,7 @@
 
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/Shashank02051997/AnywhereGPT-Android) ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/Shashank02051997/AnywhereGPT-Android) ![GitHub last commit](https://img.shields.io/github/last-commit/Shashank02051997/AnywhereGPT-Android)  ![GitHub issues](https://img.shields.io/github/issues-raw/Shashank02051997/AnywhereGPT-Android) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](Shashank02051997/AnywhereGPT-Android)
 
+[![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![platform](https://img.shields.io/badge/platform-Android-yellow.svg)](https://www.android.com)
 [![API](https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=plastic)](https://android-arsenal.com/api?level=21)
 <br>
@@ -28,9 +29,13 @@ AnywhereGPT is the ultimate mobile app with seamless AI assistance at your finge
 
 
 ## Sailent Features:
-- .
-- .
-- .
+
+- Engage in open-ended conversations with an AI chatbot powered by the GPT-3.5-Turbo model.
+- Receive responses to various types of queries, including content summarization, language translation, factual answers, email drafting, programming assistance, and more.
+- Maintain context throughout the conversation with the bot, as it remembers the previous two sets of interactions.
+- Access a settings screen to configure the OpenAI API key and other settings.
+- Utilize a copy chat messages feature to easily save or share the conversation history.
+- Use the Anywhere GPT feature to access the chatbot while browsing the internet, chatting on WhatsApp, writing content for LinkedIn or Twitter, and other activities.
 
 ## Screenshots
 
