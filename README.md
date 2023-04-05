@@ -40,9 +40,9 @@ AnywhereGPT is the ultimate mobile app with seamless AI assistance at your finge
 
 **Please click the image below to enlarge.**
 
-<img src="https://github.com/Shashank02051997/AnywhereGPT-Android/blob/master/Screenshot/Screenshot_20230404-132707.png" height="600" width="300" hspace="40"><img src="https://github.com/Shashank02051997/AnywhereGPT-Android/blob/master/Screenshot/Screenshot_20230404-132730.png" height="600" width="300" hspace="40">
+<img src="https://user-images.githubusercontent.com/20399094/230069679-123f8014-bfdc-4f78-ae42-93971c1b7561.png" height="600" width="300" hspace="40"><img src="https://user-images.githubusercontent.com/20399094/230069696-f7e762cf-73bf-410c-9684-69b4baecf2e6.png" height="600" width="300" hspace="40">
 
-<img src="https://github.com/Shashank02051997/AnywhereGPT-Android/blob/master/Screenshot/Screenshot_20230404-132753.png" height="600" width="300" hspace="40"><img src="https://github.com/Shashank02051997/AnywhereGPT-Android/blob/master/Screenshot/Screenshot_20230404-132938.png" height="600" width="300" hspace="40">
+<img src="https://user-images.githubusercontent.com/20399094/230069705-def1e179-5dc5-4245-bbe0-10501ff0bb61.png" height="600" width="300" hspace="40"><img src="https://user-images.githubusercontent.com/20399094/230069709-66298716-088f-4813-a9b9-bbd422f83e7d.png" height="600" width="300" hspace="40">
 
 ## App Demo
 
