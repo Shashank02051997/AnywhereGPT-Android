@@ -8,9 +8,9 @@ import javax.inject.Inject
 
 class ChatRepository @Inject constructor(
     private val api: ApiInterface
-) : SafeApiRequest() {
+) : SafeApiRequest(), IChatRepository {
 
-    suspend fun sendMessage(
+    override suspend fun sendMessage(
         chatPostBody: ChatPostBody
     ): ChatResponseBody = apiRequest {
         api.sendMessage(chatPostBody)

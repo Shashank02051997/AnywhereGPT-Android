@@ -6,7 +6,7 @@ import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.shashank.anywheregpt.data.models.ChatPostBody
 import com.shashank.anywheregpt.data.models.ChatResponseBody
-import com.shashank.anywheregpt.data.repositories.ChatRepository
+import com.shashank.anywheregpt.data.repositories.IChatRepository
 import com.shashank.anywheregpt.utils.ChatRole
 import com.shashank.anywheregpt.utils.Event
 import com.shashank.anywheregpt.utils.State
@@ -18,7 +18,7 @@ import kotlinx.coroutines.withContext
 import javax.inject.Inject
 
 @HiltViewModel
-class ChatViewModel @Inject constructor(private val repository: ChatRepository) :
+class ChatViewModel @Inject constructor(private val repository: IChatRepository) :
     ViewModel() {
 
 
