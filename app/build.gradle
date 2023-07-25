@@ -60,7 +60,7 @@ dependencies {
     implementation 'com.intuit.sdp:sdp-android:1.0.6'
 
     // Coroutines
-    def coroutines_version = "1.6.4"
+    def coroutines_version = "1.7.3"
     implementation "org.jetbrains.kotlinx:kotlinx-coroutines-core:$coroutines_version"
     implementation "org.jetbrains.kotlinx:kotlinx-coroutines-android:$coroutines_version"
 
