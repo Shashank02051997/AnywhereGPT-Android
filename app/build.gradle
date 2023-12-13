@@ -77,7 +77,7 @@ dependencies {
     implementation "androidx.navigation:navigation-ui-ktx:$navigation_version"
 
     // Activity KTX for viewModels()
-    implementation "androidx.activity:activity-ktx:1.7.0"
+    implementation "androidx.activity:activity-ktx:1.8.2"
 
     //Dagger-Hilt
     implementation "com.google.dagger:hilt-android:2.44"
